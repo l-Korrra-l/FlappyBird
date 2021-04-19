@@ -20,7 +20,7 @@ namespace Flappy_Bird
         
         public Player(int x, int y)
         {
-            birdImg = new Bitmap(@"C:\Users\User\Documents\c# lessons\Flappy Bird\Flappy Bird\pic\photo_2021-02-14_00-24-55.jpg");  //--------------------------
+            birdImg = new Bitmap(@"C:\Users\User\Documents\c# lessons\Flappy Bird\FlappyBird\Flappy Bird\pic\photo_2021-02-14_00-24-55.jpg");  //--------------------------
             this.x = x;
             this.y = y;
             size = 50;

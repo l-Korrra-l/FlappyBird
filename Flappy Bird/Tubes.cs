@@ -17,7 +17,7 @@ namespace Flappy_Bird
 
         public Tubes(int x, int y, bool isRotated=false)
         {
-            tubeImg = new Bitmap(@"C:\Users\User\Documents\c# lessons\Flappy Bird\Flappy Bird\pic\1391616.png");  //--------------------------
+            tubeImg = new Bitmap(@"C:\Users\User\Documents\c# lessons\Flappy Bird\FlappyBird\Flappy Bird\pic\1391616.png");  //--------------------------
             this.x = x;
             this.y = y;
             sizeX = 50;
